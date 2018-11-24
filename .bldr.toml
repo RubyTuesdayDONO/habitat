@@ -1,0 +1,5 @@
+[rubytuesdaydono/model-basic]
+plan_path = "plan/rubytuesdaydono/model-basic/0.0.1
+paths = [
+  "plan/rubytuesdaydono/model-basic/**"
+]
